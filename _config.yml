@@ -1,5 +1,5 @@
 # Site settings
-title: Blog
+title: QIJIA's BLOG
 SEOTitle: 起嘉的博客 | QIJIA BLOG
 header-img: img/post-bg-desk.jpg
 email: zhang.qijia007@gmail.com
@@ -19,8 +19,8 @@ sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 # weibo_username:     qijia
-zhihu_username:     qijia
-github_username:    qijia
+zhihu_username:     
+github_username:    zhangqijia
 facebook_username:  
 jianshu_username:   
 #twitter_username:   qijia
