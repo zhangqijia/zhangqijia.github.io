@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 9f718dc921a0153b3b48                            #生成的clientID
   clientSecret: 1c52bd788664dcbab8e5fd3a5060ec242f5c2bf5    #生成的clientSecret
-  repo: qijia.github.io    #仓库名称
+  repo: zhangqijia.github.io    #仓库名称
   owner: qijia    #github用户名
   admin: qijia
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
@@ -77,7 +77,7 @@ gitalk:
 ba_track_id: edc2e7d984cd67e65bb9263ee700cbce
 
 # Google Analytics
-ga_track_id: 'G-QTD1NJ3H9Z'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-158725670-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
