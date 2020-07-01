@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Dissertation Word Format
-subtitle:   fork 的其他大佬的github
+subtitle:   
 date:       2020-06-30
 author:     QIJIA
 header-img: img/post-bg-universe.jpg
